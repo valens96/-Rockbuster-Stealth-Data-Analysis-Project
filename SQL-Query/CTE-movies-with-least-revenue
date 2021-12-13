@@ -1,4 +1,4 @@
-# Finding movies with least revenue
+# this will pull bottom 10 movies by revenue
 SELECT f.film_id, f.title,SUM(amount) AS total_sales
 FROM FILM f
 INNER JOIN inventory i ON f.film_id = i.inventory_id
