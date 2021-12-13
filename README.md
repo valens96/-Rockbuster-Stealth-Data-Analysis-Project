@@ -1,6 +1,7 @@
 # -Rockbuster-Stealth-Data-Analysis-Project
 
 Overview
+
 Rockbuster Stealth LLC is  amovie rental company that used to have stores around the fworld. In this current modern world they are facing competition such as netflix, and amazon prime. Due to this they are planning to use existing movie licenses to launch an online video rental service in order to stay competitive. 
 
 This analysis will help Rockbuster to help with transitioning and this will be done through **SQL** Here are the questions it will answer. 
